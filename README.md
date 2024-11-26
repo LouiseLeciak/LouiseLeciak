@@ -14,7 +14,7 @@ Louise
 
 Checkout <a href="https://github.com/LouiseLeciak/COMMON-CORE-42">my projects</a> ! 
 
-<p align="center">
+## ft_irc <p align="center">
 	<a href="https://github.com/LouiseLeciak/COMMON-CORE-42">
 	<img src="https://badge.nimon.fr/api/v2/cm3y9cjkx1204001l6bhfoyb1y/project/4039887" alt="lleciak's 42 stats provided by https://github.com/Nimon77/badge42" /></a>
 
@@ -42,7 +42,4 @@ Checkout <a href="https://github.com/LouiseLeciak/COMMON-CORE-42">my projects</a
 			src="https://github-readme-stats-git-master-lleciak-projects.vercel.app/api?username=louiseleciak&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=false"
 		/>
 </div>
-			loading="eager"
-			src="https://github-readme-stats-git-master-lleciak-projects.vercel.app/api?username=louiseleciak&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=false"
-		/>
-</div>
+
