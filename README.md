@@ -5,9 +5,6 @@
 	<img src="https://badge.nimon.fr/api/v2/cm3y9cjkx1204001l6bhfoyb1y/stats?cursusId=21&coalitionId=48" alt="lleciak's 42 stats provided by https://github.com/Nimon77/badge42" /></a>
 </p>
 
-## Whoami
-
-Louise
 
 # 42 Cursus Projects
 
@@ -42,6 +39,7 @@ My projects at  [school 42](https://42.fr/en/homepage/).
 | 0   | [EXAM02]                       | ![top language](https://img.shields.io/badge/c-100%25-purple)                       | ![grade](https://badge.nimon.fr/api/v2/cm3y9cjkx1204001l6bhfoyb1y/project/3474375)            | 4 differents functions to code.                                          |
 | 1   | [EXAM03]           | ![top language](https://img.shields.io/badge/c-100%25-purple)           | ![grade](https://badge.nimon.fr/api/v2/cm3y9cjkx1204001l6bhfoyb1y/project/3474375)      | code printf.                               |
 | 2   | [EXAM04]              | ![top language](https://img.shields.io/badge/c-100%25-purple)               | ![grade](https://badge.nimon.fr/api/v2/cm3y9cjkx1204001l6bhfoyb1y/project/3474375)        | Microshell.                                 |
-| 3   | [EXAM05]                 | ![top language](https://img.shields.io/badge/c++-100%25-purple)       | ![grade](https://badge.nimon.fr/api/v2/cm3y9cjkx1204001l6bhfoyb1y/project/3474375)    | 3 cpp modules.               |
+| 3   | [EXAM05]                 | ![top language](https://img.shields.io/badge/c++-100%25-purple)       | ![grade](https://badge.nimon.fr/api/v2/cm3y9cjkx1204001l6bhfoyb1y/project/4003553)    | 3 cpp modules.               |
 | 4   | [EXAM06](https://github.com/LouiseLeciak/SO_LONG-42)                 | ![top language](https://img.shields.io/badge/c-100%25-purple)                 | [coming soon]         | Create a little web serv.
+
 
