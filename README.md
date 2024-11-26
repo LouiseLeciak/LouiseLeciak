@@ -32,7 +32,7 @@ My projects at  [school 42](https://42.fr/en/homepage/).
 | 11   | [net_practice](https://github.com/LouiseLeciak/NETPRACTICE-42)         | ![net_practice top language](https://img.shields.io/badge/language-none-purple)         | ![net_practice grade](https://badge.nimon.fr/api/v2/cm3y9cjkx1204001l6bhfoyb1y/project/3956595)     | Solve IP addressing and network issues in a training interface.                 |
 | 12   | [ft_irc](https://github.com/LouiseLeciak/IRC-42)                     | ![ft_irc top language](https://img.shields.io/github/languages/top/lleciak/ft_irc?style=flat-square)                     | ![ft_irc grade](https://badge.nimon.fr/api/v2/cm3y9cjkx1204001l6bhfoyb1y/project/3956595)           | Create an IRC chat server in C++.                                 |
 | 13   | [inception](https://github.com/LouiseLeciak/INCEPTION-42)               | ![inception top language](https://img.shields.io/badge/dockerfile-60.1%25-purple)               | ![inception grade](https://badge.nimon.fr/api/v2/cm3y9cjkx1204001l6bhfoyb1y/project/4003554)        | Set up a Docker network with containers for nginx, mariadb, and wordpress.      |
-| 14   | [transcendence](https://github.com/42rave/TRANSCENDANCE-42) | ![transcendence top language](https://img.shields.io/github/languages/top/lleciak/ft_irc?style=flat-square) | ![transcendence grade] | Create a website where users can chat and play pong. Team project.              |
+| 14   | [transcendence](https://github.com/42rave/TRANSCENDANCE-42) | ![transcendence top language](https://img.shields.io/github/languages/top/lleciak/ft_irc?style=flat-square) | [coming soon] | Create a website where users can chat and play pong. Team project.              |
 
 
 ## Exams
