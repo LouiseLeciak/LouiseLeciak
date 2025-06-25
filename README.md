@@ -48,4 +48,3 @@ My projects at  [school 42](https://42.fr/en/homepage/).
 |     | Project                                                              | Language(s) Used                                                                                          | Description                                                                                      |
 | --- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | 0   | [Mehdokkan](https://github.com/LouiseLeciak/mehdokkan)              | ![top language](https://img.shields.io/badge/python-100%25-purple)                                    | A little card game to learn python                        |
-                                      |
