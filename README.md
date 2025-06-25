@@ -43,3 +43,9 @@ My projects at  [school 42](https://42.fr/en/homepage/).
 | 4   | [EXAM06](https://github.com/LouiseLeciak/SO_LONG-42)                 | ![top language](https://img.shields.io/badge/c-100%25-purple)                 | ![grade](https://badge.nimon.fr/api/v2/cm3y9cjkx1204001l6bhfoyb1y/project/3410670)         | Create a little web serv.
 
 
+## Personal Projects
+
+|     | Project                                                              | Language(s) Used                                                                                          | Description                                                                                      |
+| --- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 0   | [Mehdokkan](https://github.com/LouiseLeciak/mehdokkan)              | ![top language](https://img.shields.io/badge/python-100%25-purple)                                    | A little card game to learn python                        |
+                                      |
