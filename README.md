@@ -47,4 +47,4 @@ My projects at  [school 42](https://42.fr/en/homepage/).
 
 |     | Project                                                              | Language(s) Used                                                                                          | Description                                                                                      |
 | --- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 0   | [Mehdokkan](https://github.com/LouiseLeciak/mehdokkan)              | ![top language](https://img.shields.io/badge/python-100%25-purple)                                    | A little card game to learn python                        |
+| 0   | [Multithreading](https://github.com/LouiseLeciak/multithreading)              | ![top language](https://img.shields.io/badge/c++-100%25-purple)                                    | Learning how to multithread in c++                        |
